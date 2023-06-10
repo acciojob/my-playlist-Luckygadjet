@@ -3,7 +3,13 @@ body{
 	text-align:centre;
 	background-color:#cccccc;
 }
-h1{
+h3{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+h1 {
 	text-align:center;
 }
 .player_one li {
@@ -33,22 +39,11 @@ list-style-type: none;
 
 .player_two{
 
-	display:flex;
-	flex-direction:column;
-	margin:1.5rem auto;
+	 background-color: white;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
 	
 
-   /*text-align: center;
-  border: 1px solid;
-  padding: 0.5rem;
-  padding-left: 0.5rem;
-  display: inline-block;
-  max-width: 100%; /* Adjust the maximum width of the div */
-  /*max-height: 90vh; /* Adjust the maximum height of the div */
-  margin-top: 20px; /* Add margin to create a gap */
-  margin-left: auto; /* Center the div horizontally */
-  margin-right: auto;
-	background-color:white;*/
-	
   
 }
